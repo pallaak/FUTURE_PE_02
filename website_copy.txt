@@ -1,38 +1,27 @@
-HOMEPAGE COPY
+UGC AD CONTENT
 
-GlowClear Face Wash
-Clear Skin Starts Here
+Hooks:
+- I almost cancelled my plans because of my skin
+- My acne was getting worse and nothing worked
 
-Struggling with acne and oily skin?
-GlowClear Face Wash is specially designed for acne-prone skin to gently cleanse and reduce excess oil while maintaining skin balance.
+Ad Script:
+- Okay wait… I tried GlowClear and it actually helped my skin…
+- Less breakouts… less oil… it felt better honestly…
 
-Benefits:
-- Helps reduce excess oil
-- Supports clearer-looking skin
-- Gentle daily cleansing formula
-- Suitable for sensitive skin
+CTAs:
+- Try GlowClear today
+- See visible difference
+
+
+
+WEBSITE COPY
+
+Homepage:
+GlowClear Face Wash helps reduce excess oil and supports clearer-looking skin.
+
+Services:
+Gentle cleansing, acne support, oil control skincare.
 
 CTA:
-Start your skincare journey today
-
-
-SERVICES PAGE COPY
-
-GlowClear Face Wash is a daily-use skincare solution designed for acne-prone skin.
-
-Features:
-- Deep cleansing formula
-- Oil control support
-- Gentle on skin barrier
-- Suitable for daily use
-
-Why GlowClear?
-Because simple skincare works best. No harsh chemicals, just gentle care for your skin.
-
-
-CTA SECTIONS
-
-- Try GlowClear today
-- Start your skincare routine now
-- See visible skin improvement
-- Your skin deserves better
+Start your skincare routine today
+Try GlowClear Face Wash
